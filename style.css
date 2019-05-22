@@ -1,0 +1,238 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    background-image: url("images/stylishportfolio.png");
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 1000px;
+}
+.first{
+    width: 100%;
+    height: 430px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    color: #212529;
+    font-weight: 700;
+    line-height: 1.2;
+    padding: 100px 50px;
+    margin: 0 0 0 52px;
+}
+.firsta{
+    width: 960px;
+    margin: auto;
+}
+.first1{
+    font-size: 20px;
+    font-weight: 500;
+}
+.first2{
+    width: 182px;
+    height: 66px;
+    border: none;
+}
+.first2 input{
+    width: 182px;
+    height: 66px;
+    background: #343A40;
+    border-radius: 5px;
+    border-color: #343A40;
+    color: #fff;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 50px 0 0 270px;
+}
+.two{
+    background: #1D809f;
+    width: 100%;
+    height: 552px;
+}
+.twoust{
+    padding: 50px 0 0 300px;
+    width: 960px;
+    height: 150px;
+    margin: auto;
+}
+.twoorta{
+    width: 100%;
+    height: 450px;
+    margin: auto;
+}
+.three{
+    background: #fff;
+    width: 100%;
+    height: 1000px;
+    padding: 100px 0 0 0;
+}
+.threeust{
+    background: white;
+    padding: 0 0 0 300px;
+    width: 960px;
+    height: 150px;
+    margin: auto;
+}
+.recent{
+    font-size: 40px;
+    color: #212529;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.recent1{
+    font-size: 48px;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0 0 0 60px;
+}
+.gold{
+    color: #ECB807;
+    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 0 0 0 110px;
+}
+.gold1{
+    color: #ECB807;
+    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 0 0 0 120px;
+}
+.threeorta{
+    width: 960px;
+    margin: auto;
+}
+.a{
+    width: 50%;
+    height: 350px;
+    transition: all 0.5s;
+    float: left;
+    background: #ECB807;
+}
+.a:hover{
+    transform: scale(0.9);
+    
+}
+.a1{
+    background-image: url(images/portfolio-1.jpg);
+}
+.a2{
+    background-image: url(images/portfolio-2.jpg);
+}
+.a3{
+    background-image: url(images/portfolio-3.jpg);
+}
+.a4{
+    background-image: url(images/portfolio4.jpg);
+    background-position: left;
+}
+.four{
+
+    background-image: url("images/portfolio4.jpg");
+    background-size: cover;
+    background-position: left;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 728px;
+}
+.foutinput{
+    width: 182px;
+    height: 66px;
+    border: none;
+}
+.fourinput input{
+    width: 182px;
+    height: 66px;
+    background: #1D809f;
+    border-radius: 5px;
+    border-color: #1D809f;
+    color: #fff;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 370px 0 0 370px;
+}
+.five{
+    width: 100%;
+    height: 368px;
+    background: #1D809f;
+    color: #fff;
+}
+.fiveorta{
+    width: 960px;
+    height: 100px;
+    margin: auto;
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: center;
+    padding: 50px 0 0 0;
+}
+.click{
+    width: 960px;
+    margin: auto;
+    height: 66px;
+    padding: 15px 0;
+}
+.click input{
+    width: 182px;
+    height: 66px;
+    background: #fff;
+    border-radius: 5px;
+    border-color: #fff;
+    color: #000;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 10px 0 0 350px;
+}
+.six{
+    width: 100%;
+    height: 480px;
+    background: #ECB807;
+}
+.t1{
+    background: #fff;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin:  75px 0 0 150px;
+    float: left;
+    background-image: url(images/t1.PNG);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+}
+.t2{
+    background: #fff;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin:  75px 0 0 150px;
+    float: left;
+    background-image: url(images/t2.PNG);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+}
+.t3{
+    background: #fff;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin:  75px 0 0 150px;
+    float: left;
+    background-image: url(images/t3.PNG);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+}
+.t4{
+    background: #fff;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin:  75px 0 0 150px;
+    float: left;
+    background-image: url(images/t4.PNG);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+}
